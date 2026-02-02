@@ -1,4 +1,7 @@
-# Obesity Level Estimation Using Machine Learning
+# Obesity Level Estimation
+## Artificial Intelligence degree
+### Machine Learning (2nd Year)
+> Gússem Yahia-Cheikh, María Colomer and Sara Díez <br>
 
 This project focuses on a multi-class obesity level classification task using supervised machine learning techniques. The goal is to predict obesity categories based on individuals’ eating habits, physical condition, and lifestyle features, while systematically comparing different modeling approaches in terms of performance, robustness, and interpretability.
 

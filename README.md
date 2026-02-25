@@ -15,4 +15,4 @@ The workflow covers data preprocessing, exploratory data analysis, model trainin
 
 - **Project Presentation (Slides)**  
   Summary of objectives, dataset, modeling strategy, and results.  
-  [View the presentation](Deriverables/PPT_Obesity_Estimation_ML.pdf)
+  [View the presentation](Deliverables/PPT_Obesity_Estimation_ML.pdf)

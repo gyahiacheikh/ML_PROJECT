@@ -1,5 +1,5 @@
 # Obesity Level Estimation
-## Artificial Intelligence degree
+## Artificial Intelligence Degree
 ### Machine Learning (2nd Year)
 > Gússem Yahia-Cheikh, María Colomer and Sara Díez <br>
 

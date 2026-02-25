@@ -11,8 +11,8 @@ The workflow covers data preprocessing, exploratory data analysis, model trainin
 
 - **Final Report (PDF)**  
   Detailed documentation of the methodology, experiments, and conclusions.  
-  [View the report](./Obesity_Classification_Report.pdf)
+  [View the report](Deliverables/Obesity_Classification_Report.pdf)
 
 - **Project Presentation (Slides)**  
   Summary of objectives, dataset, modeling strategy, and results.  
-  [View the presentation](./PPT_Obesity_Estimation_ML.pptx)
+  [View the presentation](Deriverables/PPT_Obesity_Estimation_ML.pptx)
